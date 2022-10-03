@@ -20,6 +20,7 @@ const UseEffectAPI = () => {
     return (
         <>
             <h2>List of Github users</h2>
+            <h2>Getting List from API :- `https://api.github.com/users`</h2>
             <div className='container_fluid mt-5'>
                 <div className='row text-center'>
 
